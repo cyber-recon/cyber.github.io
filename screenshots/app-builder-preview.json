@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ops floor · Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 10169,
+      "bodyTextHash": "dc1a991e1a4d47301a3d05a2db1d1697008c327a0c65ea7bd4a5b107709c8679",
+      "bodyTextPrefix": "Skip to content Lantern OPS FLOOR 05:45:24Z · SYNC Search vulner",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ops floor · Lantern",
+      "hasCanvas": false,
+      "bodyTextLen": 9740,
+      "bodyTextHash": "f329d0c2970c63fc87e98de3e8b526c385da016a9d7fe4ae23b20fab31caed8f",
+      "bodyTextPrefix": "Skip to content Lantern OPS FLOOR 05:45:29Z · SYNC Search vulner",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
